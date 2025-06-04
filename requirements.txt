@@ -1,0 +1,5 @@
+certifi==2025.4.26 ; python_version >= "3.12"
+charset-normalizer==3.4.2 ; python_version >= "3.12"
+idna==3.10 ; python_version >= "3.12"
+requests==2.32.3 ; python_version >= "3.12"
+urllib3==2.4.0 ; python_version >= "3.12"
